@@ -51,7 +51,7 @@ img {
 
 .title2 {
   text-align: center;
-  padding: 200px;
+  padding: 100px;
 }
 
 * {
@@ -96,6 +96,12 @@ body {
   padding: 16px;
   text-align: center;
   background-color: #f1f1f1;
+}
+
+.contactus {
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 50px;
 }
 
 .footer-basic {
