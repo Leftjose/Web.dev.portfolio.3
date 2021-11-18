@@ -46,7 +46,7 @@ img {
 .aboutme {
   text-align: center;
   position: relative;
-  padding: 200px;
+  padding: 100px;
 }
 
 .title2 {
@@ -82,7 +82,7 @@ body {
 }
 
 /* Responsive columns */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 200px) {
   .column {
     width: 100%;
     display: block;
